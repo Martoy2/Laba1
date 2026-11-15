@@ -1,0 +1,14 @@
+cmake-build-*/
+build/
+/dbms
+/go/dbms
+
+*.data
+*.tmp
+
+*.docx
+
+.idea/*
+!.idea/runConfigurations/
+
+.DS_Store
